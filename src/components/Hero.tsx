@@ -4,7 +4,7 @@ function Hero() {
     return (
         <>
             <div className="flex justify-between w-full h-[600px]">
-                <div className="w-1/4 flex flex-col justify-center gap-4 relative z-50 ml-12">
+                <div className="w-1/4 flex flex-col justify-center gap-4 relative z-20 ml-12">
                     <div className="text-6xl flex font-bold tracking-widest gap-4">
                         <p className="">Empowering</p>
                         <p className="text-white">Industries</p>
